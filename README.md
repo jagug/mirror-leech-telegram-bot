@@ -307,6 +307,7 @@ leechwatch - Leech through yt-dlp supported link
 leechzipwatch - Leech yt-dlp support link as zip
 leechset - Leech settings
 setthumb - Set thumbnail
+speedtest - speedtest
 status - Get Mirror Status message
 rsslist - List all subscribed rss feed info
 rssget - Get specific No. of links from specific rss feed
